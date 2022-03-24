@@ -1,0 +1,23 @@
+/*******************************tag selector**************/
+img:hover
+{
+  background-color: red;
+}
+/******************************class selector************/
+.bacon
+{
+  background-color: yellow;
+}
+.french
+{
+  background-color: green;
+}
+.circular
+{
+  border-radius: 100%;
+}
+/***************************ids*************************/
+#heading
+{
+  color: #66bfbf;
+}
